@@ -37,3 +37,9 @@ Requires internet access for online collaboration.
 Accessed through a web browser or GitHub application.
 Owned by GitHub and acquired by Microsoft in 2018.
 Provides features like Pull Requests, Issues, Actions, and Collaboration Tools.
+
+Three git commands learned
+
+1. git init
+2. git add .
+3. git commit -m "message"
