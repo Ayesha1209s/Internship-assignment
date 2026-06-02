@@ -1,0 +1,39 @@
+1. What is Git?
+
+Answer--Git is a distributed version control system (VCS) used to track changes in source code and files during software development. It allows multiple developers to work on the same project efficiently and maintain different versions of the code.
+
+Key Features:
+Tracks file changes over time
+Supports collaboration among developers
+Allows branching and merging
+Maintains version history
+Works offline
+
+2. Why is Git Useful?
+
+Answer---Git is useful because it helps developers manage and track changes in a project.
+
+Advantages:
+Version Control: Keeps a record of all changes made to files.
+Collaboration: Multiple developers can work on the same project simultaneously.
+Backup and Recovery: Previous versions can be restored if mistakes occur.
+Branching: Developers can work on new features without affecting the main code.
+Change Tracking: Identifies who made specific changes and when.
+Efficient Development: Simplifies code integration and project management.
+
+3. Difference Between Git and GitHub
+
+Git---->
+Git is a version control system.	
+Used to track and manage code changes locally.	
+Can work without an internet connection.	
+Installed on a local computer.	
+Developed by Linus Torvalds in 2005.	
+Example Commands: git add, git commit, git push	
+
+GitHub-->
+Used to store and share Git repositories online.
+Requires internet access for online collaboration.
+Accessed through a web browser or GitHub application.
+Owned by GitHub and acquired by Microsoft in 2018.
+Provides features like Pull Requests, Issues, Actions, and Collaboration Tools.
